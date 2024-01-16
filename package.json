@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "jest"
+    "lint": "next lint"
   },
   "dependencies": {
     "react": "^18",
@@ -14,3 +14,4 @@
     "next": "13.5.4"
   }
 }
+
